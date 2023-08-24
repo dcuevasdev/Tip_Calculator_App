@@ -1,0 +1,13 @@
+/*===Variables===*/
+:root {
+  /*===Font===*/
+  --font-family: "Space Mono", monospace;
+
+  /*===Colors===*/
+  --color-bg-elements: #00494d;
+  --color-focus: #26c0ab;
+  --color-dark: #5e7a7d;
+  --color-grayish: #7f9c9f;
+  --color-light: #c5e4e7;
+  --color-very-light: #f4fafa;
+}
